@@ -1,0 +1,14 @@
+{
+  "googleApiKey": "YOUR_GOOGLE_PLACES_API_KEY",
+  "radius": 1500,
+  "maxResultsPerQuery": 20,
+  "useMockData": true,
+  "concurrency": 5,
+  "output": {
+    "directory": "./data",
+    "formats": ["json", "csv"]
+  },
+  "http": {
+    "timeoutMs": 10000
+  }
+}
