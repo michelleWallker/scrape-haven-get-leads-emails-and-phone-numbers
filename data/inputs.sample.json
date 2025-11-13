@@ -1,0 +1,12 @@
+[
+  {
+    "query": "coffee shop",
+    "location": "New York, NY",
+    "radius": 1500
+  },
+  {
+    "query": "digital marketing agency",
+    "location": "San Francisco, CA",
+    "radius": 2000
+  }
+]
