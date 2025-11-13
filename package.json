@@ -1,0 +1,24 @@
+{
+  "name": "scrape-haven-get-leads-emails-and-phone-numbers",
+  "version": "1.0.0",
+  "description": "ScrapeHaven – Google Maps scraper that collects business emails, phone numbers, websites, and social links.",
+  "main": "src/runner.js",
+  "scripts": {
+    "start": "node src/runner.js",
+    "test": "node -e \"console.log('No automated tests defined for this demo project.')\"",
+    "lint": "node -e \"console.log('No linter configured for this demo project.')\""
+  },
+  "keywords": [
+    "scraper",
+    "google-maps",
+    "leads",
+    "email-finder",
+    "phone-scraper",
+    "automation"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
